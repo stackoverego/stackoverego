@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Hey there! I'm stackoverego
 
-<!--
-**stackoverego/stackoverego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Built different, fueled by ego.**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+- 💻 Passionate coder | Engineer by mind, artist by logic
+- ⚡ Turning caffeine & curiosity into clean code
+- 🎯 Focused on growth, not just grades
+- 💭 Dreaming big, building bigger
+
+---
+
+## 💪 Skills & Tools
+
+⚔️ **Languages & Tech Stack**
+
+- 🌐 C++, Java, Python
+- ⚡ MERN Stack
+- 🛡️ DSA Specialist
+- 🔥 React, Express, Node
+- 💾 MongoDB, MySQL
+
+---
+
+## 🚀 Currently
+
+- 🔭 Grinding on impactful projects
+- 💡 Learning every single day
+- 🌱 Leveling up mindset & skillset together
+
+---
+
+## 🏆 Motto
+
+> **"Comparison is for amateurs. Evolution is for legends."**  
+> **"Focus on the vision, not the scoreboard."**
+
+---
+
+## 💬 Let's Connect!
+
+- 📫 Email — **Will update in future**
+- 🧩 LinkedIn — **Will update in future**
+- 💣 Instagram — **Will update in future**
+- 👨‍💻 Portfolio — **Will update in future**
+
+---
+
+### 💥 *"Engineered my life to design my destiny."*
+
+⚡ **Built by ego. Driven by vision. Evolving every day.**
