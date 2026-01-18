@@ -42,8 +42,8 @@
 
 ## 💬 Let's Connect!
 
-- 📫 Email — **Will update in future**
-- 🧩 LinkedIn — **Will update in future**
+- 📫 Email — parthpatilJob@gmail.com
+- 🧩 LinkedIn — https://www.linkedin.com/in/parth-patiljobapply25/
 - 💣 Instagram — **Will update in future**
 - 👨‍💻 Portfolio — **Will update in future**
 
